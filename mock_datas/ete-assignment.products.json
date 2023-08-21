@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "64e21847354570c079fd8067"
+  },
+  "name": "UnderArmour Blue ",
+  "category": "Shoes",
+  "amount": 88,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e0b5a27f559ae2a2c702d4"
+  },
+  "createdAt": {
+    "$date": "2023-08-20T13:42:31.918Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T13:44:12.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e301f8b2e029e8f2130d9e"
+  },
+  "name": "Salomon Red",
+  "category": "Shoes",
+  "amount": 88,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e301e2b2e029e8f2130d9b"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:19:36.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:19:36.234Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e30203b2e029e8f2130da1"
+  },
+  "name": "Salomon Black",
+  "category": "Shoes",
+  "amount": 150,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e301e2b2e029e8f2130d9b"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:19:47.054Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:19:47.054Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e3020db2e029e8f2130da4"
+  },
+  "name": "Salomon Beige",
+  "category": "Shoes",
+  "amount": 15,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e301e2b2e029e8f2130d9b"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:19:57.542Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:19:57.542Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e3021fb2e029e8f2130da7"
+  },
+  "name": "Salomon Brown",
+  "category": "Shoes",
+  "amount": 24,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e301e2b2e029e8f2130d9b"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:20:15.899Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:20:15.899Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e30248b2e029e8f2130daf"
+  },
+  "name": "UnderArmour Red",
+  "category": "Shoes",
+  "amount": 24,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e0b5a27f559ae2a2c702d4"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:20:56.816Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:20:56.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e30250b2e029e8f2130db2"
+  },
+  "name": "UnderArmour White",
+  "category": "Shoes",
+  "amount": 250,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e0b5a27f559ae2a2c702d4"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:21:04.222Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:21:04.222Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e30258b2e029e8f2130db5"
+  },
+  "name": "UnderArmour Magenta",
+  "category": "Shoes",
+  "amount": 142,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e0b5a27f559ae2a2c702d4"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:21:12.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:21:12.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e302f2b2e029e8f2130dc0"
+  },
+  "name": "Helly Hansen Magenta",
+  "category": "Shoes",
+  "amount": 145,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:23:46.047Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:23:46.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e302f9b2e029e8f2130dc3"
+  },
+  "name": "Helly Hansen White",
+  "category": "Shoes",
+  "amount": 140,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:23:53.330Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:23:53.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e30302b2e029e8f2130dc6"
+  },
+  "name": "Helly Hansen Black",
+  "category": "Shoes",
+  "amount": 112,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:24:02.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:24:02.420Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e3030bb2e029e8f2130dc9"
+  },
+  "name": "Helly Hansen Beige",
+  "category": "Shoes",
+  "amount": 84,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:24:11.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:24:11.312Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e3031bb2e029e8f2130dce"
+  },
+  "name": "Helly Hansen Red",
+  "category": "Shoes",
+  "amount": 240,
+  "unit": "pcs",
+  "company": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "createdAt": {
+    "$date": "2023-08-21T06:24:27.630Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T16:13:15.496Z"
+  }
+}]

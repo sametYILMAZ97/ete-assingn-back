@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "64e0b5a27f559ae2a2c702d4"
+  },
+  "name": "UnderArmour",
+  "legalNumber": "0001",
+  "country": "America",
+  "url": null,
+  "createdAt": {
+    "$date": "2023-08-19T12:29:22.148Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T06:17:15.265Z"
+  },
+  "expense": 100000,
+  "income": 246751
+},
+{
+  "_id": {
+    "$oid": "64e301e2b2e029e8f2130d9b"
+  },
+  "name": "Salomon",
+  "legalNumber": "0002",
+  "country": "France",
+  "url": null,
+  "income": 0,
+  "expense": 0,
+  "createdAt": {
+    "$date": "2023-08-21T06:19:14.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T13:03:31.724Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e302dfb2e029e8f2130dbd"
+  },
+  "name": "Helly Hansen",
+  "legalNumber": "0003",
+  "country": "Norway",
+  "url": null,
+  "income": 54999,
+  "expense": 35000,
+  "createdAt": {
+    "$date": "2023-08-21T06:23:27.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T14:08:20.909Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e373a7fd1c55357bd49784"
+  },
+  "name": "Turkey",
+  "legalNumber": "99",
+  "country": "asdasd",
+  "url": "ssss",
+  "income": 400000,
+  "expense": 15600,
+  "createdAt": {
+    "$date": "2023-08-21T14:24:39.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-21T14:25:19.558Z"
+  }
+}]

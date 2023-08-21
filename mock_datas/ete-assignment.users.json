@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64e1d8f8b6d06667cf6c2be3"
+  },
+  "email": "johndoe@test.com",
+  "password": "6297c359acf0cc7cb53eae3138c2d5169295cbfa239f9731ac2def15e15f5084",
+  "name": "JohnDoe",
+  "companies": [],
+  "createdAt": {
+    "$date": "2023-08-20T09:12:24.532Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T09:12:24.532Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e1daff71d6a35aa8c7376b"
+  },
+  "email": "johndoe2@test.com",
+  "password": "7820f161646576d2bb52ceebdf32e84ce33422cde3818542455a8545100949d3",
+  "name": "JohnDoe2",
+  "companies": [],
+  "createdAt": {
+    "$date": "2023-08-20T09:21:03.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T09:21:03.948Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64e2588bf8664ebd40900707"
+  },
+  "email": "johndoe3@test.com",
+  "password": "be8932cc87c8fcc3089b5222c532b95ee6ff7448ee8b50c0b581b4a1c2bedbe3",
+  "name": "JohnDoe3",
+  "companies": [],
+  "createdAt": {
+    "$date": "2023-08-20T18:16:43.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T18:16:43.566Z"
+  }
+}]
